@@ -7,6 +7,8 @@ my_other_list = [35, 1.77, "Lua", "Cuello"]
 
 print(my_other_list[2])
 
+#hpla
+
 """
 Podemos tener listas vacias para ir alamacenando datos o definir listas con datos adentro
 
