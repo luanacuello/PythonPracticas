@@ -16,6 +16,7 @@ language = "python"
 a, b, c, d, e, f = language
 print(a)
 print(e)
+print(language.capitalize)
 
 """
 Como vimos antes la funcion len() me ayuda a ver la cantidad de caracteres que tiene mi variable.
@@ -28,6 +29,7 @@ podemos deletrear un string asignando sus caracteres en variables y metiendola e
 
 luego tenemos muchas mas funciones propias de python para poder manejar strings y las podemos enocntrar aqui
 https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md
+tambien podemos acceder a las funciones disponibles escribiendo la varuable y poninedo un punto
 """
 
 
