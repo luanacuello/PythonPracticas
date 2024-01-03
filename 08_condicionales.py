@@ -27,6 +27,16 @@ if my_string == "luaa":
 
 print("Continua la ejecucion")
 
+##Ejercicio de condicional 
+age = input("ingrese su edad : ")
+
+if int(age) >= 18:
+    print("es mayor de edad, es apto para conducir")
+else: 
+    years = 18 - int(age)
+    if years != 0:
+        print(f"es menor de edad, te faltan {years} años para conducir")
+
 """
 En el condicional lo que siga despues del if tiene que ser verdadero para que el if se ejecute.
 
